@@ -29,7 +29,7 @@ The workflow includes:
 - Observed C→T bias due to bisulfite conversion  
 
 ### 📷 Output
-![QC](results/galaxy_outputs/qc.png)
+https://drive.google.com/file/d/1njspMHlEnXggk2v2KTgSDq-rfx69BUrk/view?usp=sharing
 
 ---
 
