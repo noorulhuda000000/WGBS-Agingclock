@@ -30,7 +30,9 @@ The workflow includes:
 
 ### 📷 Output
 https://drive.google.com/file/d/1njspMHlEnXggk2v2KTgSDq-rfx69BUrk/view?usp=sharing
-
+https://drive.google.com/file/d/10Q6x7aPXvmTuIDewzN7si9qG9OcHc5QK/view?usp=sharing
+https://drive.google.com/file/d/1BKrb0AHt5DAJ0OFKWTTuSdyme0rJ97uq/view?usp=sharing
+https://drive.google.com/file/d/136j4KWCWCTfY9oKur1mMRtzaMfT8utOD/view?usp=sharing
 ---
 
 ## 🔹 Step 3: Alignment
@@ -40,16 +42,17 @@ https://drive.google.com/file/d/1njspMHlEnXggk2v2KTgSDq-rfx69BUrk/view?usp=shari
 - Paired-end reads  
 
 ### 📷 Output
-![Alignment](results/galaxy_outputs/alignment.png)
-
+https://drive.google.com/file/d/1dON1D7i28jEa2doJUu2bvoeD6sUu5zQI/view?usp=sharing
 ---
 
 ## 🔹 Step 4: Methylation Bias
 **Tool:** MethylDackel (mbias)  
 
-### 📷 Output
-![Methylation Bias](results/galaxy_outputs/mbias.png)
-
+### Output
+https://drive.google.com/file/d/1OxTFaRnvaca4MV_q77L-MJrC6G9n3G3h/view?usp=sharing
+https://drive.google.com/file/d/1y9L0dRUOsBwGHIpJ7x1C5H-GZgpid1Eo/view?usp=sharing
+https://drive.google.com/file/d/1LwczTRnv14fwElKNR371twFybkQysHr_/view?usp=sharing
+https://drive.google.com/file/d/1Jjwi-jpV1apr8fvRwAi2PatYq9lClY2v/view?usp=sharing
 ---
 
 ## 🔹 Step 5: Methylation Extraction
@@ -58,7 +61,7 @@ https://drive.google.com/file/d/1njspMHlEnXggk2v2KTgSDq-rfx69BUrk/view?usp=shari
 - Generated CpG methylation BedGraph  
 
 ### 📷 Output
-![Methylation Output](results/galaxy_outputs/methylation.png)
+https://drive.google.com/file/d/1wX5z_k4VECQpDgCt5kQBwXGXkqrw-ssa/view?usp=sharing
 
 ---
 
@@ -68,8 +71,8 @@ https://drive.google.com/file/d/1njspMHlEnXggk2v2KTgSDq-rfx69BUrk/view?usp=shari
 - Visualized methylation around TSS  
 
 ### 📷 Output
-![Profile Plot](results/galaxy_outputs/profile.png)
-
+https://drive.google.com/file/d/1n78gU4H4D94F4MiCGZje_6gXG7840GZ7/view?usp=sharing
+https://drive.google.com/file/d/1aJ9VMqZTazST47kCDCkucyX5HGPUbHup/view?usp=sharing
 ---
 
 ## 🔹 Step 7: Differential Methylation Analysis
@@ -78,7 +81,9 @@ https://drive.google.com/file/d/1njspMHlEnXggk2v2KTgSDq-rfx69BUrk/view?usp=shari
 - Compared normal vs tumor samples  
 
 ### 📷 Output
-![Metilene](results/galaxy_outputs/metilene.png)
+https://drive.google.com/file/d/1rsh7MEc_0S6nv3sIzYwIInYh5cTD1IGh/view?usp=sharing
+https://drive.google.com/file/d/1scpcbIDMq0OniJtmDtVpr1l-_l40AiN6/view?usp=sharing
+https://drive.google.com/file/d/1WatfbJfhNVEgEo3AHFn68GOQtuMZ90BZ/view?usp=sharing
 
 ---
 
@@ -112,21 +117,18 @@ https://drive.google.com/file/d/1njspMHlEnXggk2v2KTgSDq-rfx69BUrk/view?usp=shari
 ## 🔹 Analysis
 
 ### 📊 Correlation Matrix
-![Correlation 1](results/heatmaps/corr_dataset1.png)  
-![Correlation 2](results/heatmaps/corr_dataset2.png)
-
+https://drive.google.com/file/d/1flknPpJeA-6NvddhuxFqsVVOBqplkGDV/view?usp=sharing
+https://drive.google.com/file/d/1w_mpz5VM4co60lQCRzdGJNsV5e3tPWr4/view?usp=sharing
 ---
 
 ### 🔥 Age Deviation Heatmap
-![Deviation 1](results/heatmaps/deviation_dataset1.png)  
-![Deviation 2](results/heatmaps/deviation_dataset2.png)
-
+https://drive.google.com/file/d/18QplfDS_bciUDlsGl6gLO7Ke2IsJeaKk/view?usp=sharing
+https://drive.google.com/file/d/19Y_GHa6MbqYxEW98KDp3k-_2KpjZEP7H/view?usp=sharing
 ---
 
 ### 📈 Predicted vs Chronological Age
-![Scatter 1](results/plots/scatter_dataset1.png)  
-![Scatter 2](results/plots/scatter_dataset2.png)
-
+https://drive.google.com/file/d/1gGPptvIvU3rEy3wZUbr6w4O-nEJks3Gc/view?usp=sharing
+https://drive.google.com/file/d/1D4Ayh2e8RLELQ24Jeyf0h46yWpOj6Hau/view?usp=sharing
 ---
 
 ## 📊 Key Results
@@ -169,7 +171,3 @@ Hierarchical Clustering of Breast Cancer Methylomes Revealed Differentially Meth
 
 ---
 
-# ✅ Status
-✔ Analysis complete  
-✔ Visualizations generated  
-✔ Ready for submission  
